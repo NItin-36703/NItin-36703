@@ -1,102 +1,172 @@
+
 <h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center">Machine Learning Enthusiast | Python Developer | Data Science Learner</h3>
+
+<h3 align="center">Machine Learning Enthusiast | C++ Programmer | Data Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Python+Developer;Data+Preprocessing+%7C+EDA+%7C+Feature+Engineering;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;C%2B%2B+Programmer;Exploring+Machine+Learning;Data+Preprocessing+%26+Feature+Engineering;Turning+Data+Into+Insights" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Machine Learning, Data Preprocessing, and Feature Engineering**
-- 📊 Interested in **EDA, Model Building, and Data Analysis**
-- 💡 I like turning raw data into useful insights
-- 🎯 Goal: Build real-world projects using **Machine Learning**
-- 📫 Reach me on GitHub: **[NItin-36703](https://github.com/NItin-36703)**
+- 🔭 Currently working on Machine Learning projects
+- 🌱 Learning Data Preprocessing, Feature Engineering and ML Algorithms
+- 💡 Interested in solving real-world problems using Machine Learning
+- 🧠 Exploring Supervised and Unsupervised Learning
+- 💻 Practicing Data Structures and Algorithms using C++
+- 📊 Passionate about Data Analysis and Predictive Modeling
+- ⚡ Always excited to learn new technologies
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack & Skills
 
-### 👨‍💻 Languages
-- Python
-- SQL
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
-- Feature Engineering
-- Data Preprocessing
 
-### 📊 Data Analysis
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-008080?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-6A5ACD?style=for-the-badge)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-008B8B?style=for-the-badge)
 
-### ⚙️ Tools
-- Git
-- GitHub
-- VS Code
-- Google Colab
+### 📊 Data Analysis & Visualization
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🛠️ Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-## 🧠 Machine Learning Concepts
+## 🧠 Machine Learning Skills
 
-### Data Preprocessing
+### 🔹 Data Preprocessing
+
+- Data Cleaning and Transformation
 - Handling Missing Values
-- Removing Duplicates
-- Encoding Categorical Data
-- Feature Scaling
+- Duplicate Removal
+- Outlier Detection and Treatment
+- Label Encoding and One-Hot Encoding
+- Normalization and Standardization
 - Train-Test Split
-- Outlier Handling
+- Handling Imbalanced Datasets
 
-### Exploratory Data Analysis
-- Data Cleaning
+### 🔹 Exploratory Data Analysis (EDA)
+
+- Statistical Data Analysis
 - Correlation Analysis
-- Visualization
-- Pattern Identification
+- Data Visualization
+- Distribution Analysis
+- Identifying Trends and Patterns
 
-### Algorithms
+### 🔹 Feature Engineering
+
+- Feature Selection
+- Feature Extraction
+- Feature Transformation
+- Dimensionality Reduction (PCA)
+
+### 🔹 Machine Learning Algorithms
+
+**Supervised Learning**
 - Linear Regression
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- KNN
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
 - Naive Bayes
-- SVM
-- K-Means Clustering
 
-### Model Evaluation
-- Accuracy
-- Precision
-- Recall
-- F1-Score
+**Unsupervised Learning**
+- K-Means Clustering
+- Hierarchical Clustering
+- DBSCAN
+- Principal Component Analysis (PCA)
+
+### 🔹 Model Evaluation
+
+- Accuracy, Precision, Recall and F1-Score
 - Confusion Matrix
-- Cross Validation
-- ROC-AUC
+- ROC Curve and AUC Score
+- Cross-Validation
+- Hyperparameter Tuning
+- GridSearchCV and RandomizedSearchCV
+
+---
+
+## 🔄 Machine Learning Workflow
+
+```text
+        Data Collection
+               |
+               v
+         Data Cleaning
+               |
+               v
+       Data Preprocessing
+               |
+               v
+     Exploratory Data Analysis
+               |
+               v
+       Feature Engineering
+               |
+               v
+        Train-Test Split
+               |
+               v
+         Model Training
+               |
+               v
+        Model Evaluation
+               |
+               v
+     Hyperparameter Tuning
+               |
+               v
+         Final Prediction
+```
 
 ---
 
 ## 📌 Featured Project
 
-### 🔹 [DeepShield](https://github.com/NItin-36703/DEEPSHIELD-)
-A project focused on detecting manipulated media and analyzing outputs systematically.
+### 🛡️ [DeepShield — AI-Powered Deepfake Detection](https://github.com/NItin-36703/DEEPSHIELD-)
+
+A project focused on identifying manipulated visual content through automated video and image analysis.
+
+**Project Highlights:**
+- Video Frame Extraction
+- Image Preprocessing
+- Face Detection
+- Automated Prediction
+- Model Performance Evaluation
+- Visualization of Analysis Results
+
+**Tech Stack:** Python | React | Computer Vision
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NItin-36703&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NItin-36703&layout=compact&theme=tokyonight" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NItin-36703&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NItin-36703&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
 
 ---
@@ -104,19 +174,36 @@ A project focused on detecting manipulated media and analyzing outputs systemati
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NItin-36703&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NItin-36703&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Currently Exploring
 
-<p align="left">
-  <a href="https://github.com/NItin-36703" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+- Advanced Data Preprocessing
+- Machine Learning Pipelines
+- Feature Engineering
+- Ensemble Learning Methods
+- Predictive Analytics
+- Model Optimization
+- ML Model Deployment
+- Data Structures and Algorithms in C++
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/NItin-36703">
+    <img src="https://img.shields.io/badge/GitHub-NItin--36703-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<p align="center">⭐ Learning Machine Learning step by step and building with data.</p>
+<h3 align="center">⭐ Turning Data Into Insights With Machine Learning ⭐</h3>
+
+<p align="center">
+  Thanks for visiting my GitHub Profile!
+</p>
